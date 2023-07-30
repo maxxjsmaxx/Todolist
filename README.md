@@ -1,3 +1,2 @@
-3 adding readOnly
+4 taking `Todolist` out of `App`
 
-temporarily adding 'readonly' so that there are no errors in the console
