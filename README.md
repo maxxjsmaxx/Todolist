@@ -1,2 +1,2 @@
-4 taking `Todolist` out of `App`
+5 moving component `Todolist` to a separate file
 
