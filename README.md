@@ -1,2 +1,5 @@
-5 moving component `Todolist` to a separate file
+6 A task. Draw three components.
 
+// A task. Draw three components.
+
+//     Pass to the first component in the string `<h3>What to learn</h3>` "123", to the second "js", to the third "45"
